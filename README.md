@@ -48,7 +48,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/chitrank0614/chitrank0614">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chitrank0614&theme=default&show_icons=true" alt="Chitrank's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chitrank0614&theme=default&show_icons=true&hide=total_issues" alt="Chitrank's GitHub Stats" />
 </a>
 <a href="https://github.com/chitrank0614/chitrank0614">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitrank0614&layout=compact&line_height=100&card_width=450"/>
@@ -74,5 +74,8 @@ Here are some ideas to get you started:
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chitrank0614&show_icons=true" alt="chitrank0614" /> </p> -->
 <br>
 <h3>Where to find me</h3>
-<p><a href="https://github.com/chitrank0614" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/chitrank_0614" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/chitrank0614" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<p>
+  <a href="https://github.com/chitrank0614" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://twitter.com/chitrank_0614" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/chitrank0614" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
