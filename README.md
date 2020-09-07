@@ -25,13 +25,14 @@
 
 <h3>&#x1f4c8; GitHub Stats</3><br>
 
-<a href="https://github.com/chitrank0614/chitrank0614">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chitrank0614&theme=default&show_icons=true&hide=issues" alt="Chitrank's GitHub Stats" />
-</a>
-<a href="https://github.com/chitrank0614/chitrank0614">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitrank0614&layout=compact"/>
-</a>
-
+<p>
+  <a href="https://github.com/chitrank0614/chitrank0614">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chitrank0614&theme=default&show_icons=true&hide=issues" alt="Chitrank's GitHub Stats" />
+  </a>
+  <a href="https://github.com/chitrank0614/chitrank0614">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitrank0614&layout=compact"/>
+  </a>
+</p>
 <br>
 <h3>Where to find me</h3>
 <p>
