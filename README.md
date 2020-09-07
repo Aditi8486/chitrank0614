@@ -23,6 +23,7 @@
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=1e90ff)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=1e90ff)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=1e90ff)
+![](https://img.shields.io/badge/Tools-Adobe-Photoshop-informational?style=flat&logo=abode-photoshop&logoColor=white&color=1e90ff)
 ![](https://img.shields.io/badge/Google-Cloud-informational?style=flat&logo=google-cloud&logoColor=white&color=1e90ff)
 
 <h3>&#x1f4c8; GitHub Stats</3>
