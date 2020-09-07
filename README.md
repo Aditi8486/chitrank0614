@@ -1,6 +1,6 @@
 <h3>Hey, nice to see you.</h3>
 
-<p>Welcome to my page! </br> I'm Chitrank Mishra, Freestyle developer from <b>Noida, India</b> <img src="https://github.com/chitrank0614/chitrank0614/blob/master/images/india.svg" width="13"/>.</p>
+<p>Welcome to my page! </br> I'm <span style="color:#1e90ff">Chitrank Mishra</span>, Freestyle developer from <b>Noida, India</b> <img src="https://github.com/chitrank0614/chitrank0614/blob/master/images/india.svg" width="13"/>.</p>
 
 - 🏢 I'm currently an undergraduate student at JIIT Noida.
 - 🔭 I’m currently working on <a href="https://github.com/chitrank0614/Wall-Manager">Wall-Manager</a><br>
@@ -48,8 +48,6 @@
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=1e90ff)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=1e90ff)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=1e90ff)
-
-<br>
 
 <h3>&#x1f4c8; GitHub Stats</3><br>
 <a href="https://github.com/chitrank0614/chitrank0614">
