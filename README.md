@@ -51,7 +51,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chitrank0614&theme=default&show_icons=true" alt="Chitrank's GitHub Stats" />
 </a>
 <a href="https://github.com/chitrank0614/chitrank0614">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitrank0614&layout=compact&line_height=2"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitrank0614&layout=compact&line_height=7"/>
 </a>
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitrank0614&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> -->
 
