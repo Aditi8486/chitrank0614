@@ -19,11 +19,11 @@
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1e90ff)
 ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=1e90ff)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=1e90ff)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=1e90ff)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=1e90ff)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=1e90ff)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=1e90ff)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=1e90ff)
-![](https://img.shields.io/badge/Tools-Adobe-Photoshop-informational?style=flat&logo=abode-photoshop&logoColor=white&color=1e90ff)
 ![](https://img.shields.io/badge/Google-Cloud-informational?style=flat&logo=google-cloud&logoColor=white&color=1e90ff)
 
 <h3>&#x1f4c8; GitHub Stats</3>
