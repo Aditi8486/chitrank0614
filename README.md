@@ -7,7 +7,6 @@
 - 🤓 I'm proficient in C++.
 - 🌱 I’m currently learning React JS and Python.
 
-
 <!-- <p> -->
 <!--   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> -->
 <!--   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />  -->
@@ -34,7 +33,7 @@
 <!--   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /> -->
 <!--   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> -->
 <!--   </p> -->
-<h3>🔧 Things I code with</h3><br>
+<h3>🔧 Things I code with</h3>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=1e90ff)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=1e90ff)
@@ -54,7 +53,7 @@
 
 <h3>&#x1f4c8; GitHub Stats</3><br>
 <a href="https://github.com/chitrank0614/chitrank0614">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chitrank0614&theme=default&show_icons=true&hide=total_issues" alt="Chitrank's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chitrank0614&theme=default&show_icons=true&hide=issues" alt="Chitrank's GitHub Stats" />
 </a>
 <a href="https://github.com/chitrank0614/chitrank0614">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitrank0614&layout=compact"/>
