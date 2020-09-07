@@ -10,9 +10,9 @@
 <h3>🔧 Things I code with</h3>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=1e90ff)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=1e90ff)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=1e90ff)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=1e90ff)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=1e90ff)
+![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&logoColor=white&color=1e90ff)
+![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=cplusplus&logoColor=white&color=1e90ff)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=1e90ff)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=1e90ff)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=1e90ff)
