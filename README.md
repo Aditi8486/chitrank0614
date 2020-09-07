@@ -1,6 +1,6 @@
 <h3>Hey, nice to see you.</h3>
 
-<p>Welcome to my page! </br> I'm Chitrank, Freestyle developer from <b>Noida, India <img src="images/india.svg" width="13"/> </b>. Undergraduate student at <b>JIIT Noida</b>. Reads and writes in C++. Learning Javascript and Python. </p><br>
+<p>Welcome to my page! </br> I'm Chitrank Mishra, Freestyle developer from <b>Noida, India</b><img src="images/india.svg" width="13"/>. Undergraduate student at <b>JIIT Noida</b>. Reads and writes in C++. Learning Javascript and Python. </p><br>
 
 - 🔭 I’m currently working on <a href="https://github.com/chitrank0614/Wall-Manager">Wall-Manager</a><br>
 - 🌱 I’m currently learning React JS
