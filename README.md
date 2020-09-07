@@ -4,15 +4,16 @@
 
 - 🏢 I'm currently an undergraduate student at JIIT Noida.
 - 🔭 I’m currently working on <a href="https://github.com/chitrank0614/Wall-Manager">Wall-Manager</a><br>
-- 🤓 I'm proficient in C++.
+- 🤓 I'm proficient in C/C++.
 - 🌱 I’m currently learning React JS and Python.
 
 <h3>🔧 Things I code with</h3>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=1e90ff)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=logo=visual-studio&logoColor=white&color=1e90ff)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=logo=visual-studio-code&logoColor=white&color=1e90ff)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=1e90ff)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=1e90ff)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=1e90ff)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=1e90ff)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=1e90ff)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=1e90ff)
@@ -33,7 +34,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitrank0614&layout=compact"/>
   </a>
 </p>
-<br>
+
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/chitrank0614" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
