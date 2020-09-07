@@ -1,6 +1,6 @@
 <h3>Hey, nice to see you.</h3>
 
-<p>Welcome to my page! </br> I'm Chitrank Mishra, Freestyle developer from <b>Noida, India</b> <img src="images/india.svg" width="13"/>.</p>
+<p>Welcome to my page! </br> I'm Chitrank Mishra, Freestyle developer from <b>Noida, India</b> <img src="https://github.com/chitrank0614/chitrank0614/blob/master/images/india.svg" width="13"/>.</p>
 
 - 🏢 I'm currently an undergraduate student at JIIT Noida.
 - 🔭 I’m currently working on <a href="https://github.com/chitrank0614/Wall-Manager">Wall-Manager</a><br>
@@ -35,8 +35,6 @@
 <!--   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> -->
 <!--   </p> -->
 
-
-
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -59,9 +57,8 @@
 <a href="https://github.com/chitrank0614/chitrank0614">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitrank0614&layout=compact"/>
 </a>
+
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitrank0614&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> -->
-
-
 
 <!--
 **chitrank0614/chitrank0614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -78,6 +75,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chitrank0614&show_icons=true" alt="chitrank0614" /> </p> -->
+
 <br>
 <h3>Where to find me</h3>
 <p>
