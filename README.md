@@ -23,7 +23,7 @@
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=1e90ff)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=1e90ff)
 
-<h3>&#x1f4c8; GitHub Stats</3><br>
+<h3>&#x1f4c8; GitHub Stats</3>
 
 <p>
   <a href="https://github.com/chitrank0614/chitrank0614">
