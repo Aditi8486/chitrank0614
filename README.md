@@ -10,7 +10,7 @@
 <h3>🔧 Things I code with</h3>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=1e90ff)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=logo=visual-studio-code&logoColor=white&color=1e90ff)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=logo=visual-studio-code&logoColor=white&color=1e90ff)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=1e90ff)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=1e90ff)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=1e90ff)
