@@ -1,6 +1,7 @@
 <h3>Hey, nice to see you.</h3>
 
-<p>Welcome to my page! </br> I'm Chitrank Mishra, Freestyle developer from <b>Noida, India</b> <img src="images/india.svg" width="13"/>.
+<p>Welcome to my page! </br> I'm Chitrank Mishra, Freestyle developer from <b>Noida, India</b> <img src="images/india.svg" width="13"/>.</p>
+
 - 🏢 I'm currently an undergraduate student at JIIT Noida.
 - 🔭 I’m currently working on <a href="https://github.com/chitrank0614/Wall-Manager">Wall-Manager</a><br>
 - 🤓 I'm proficient in C++.
