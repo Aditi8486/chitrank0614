@@ -24,7 +24,6 @@
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=1e90ff)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=for-the-badge&logo=heroku&logoColor=white&color=1e90ff)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=1e90ff)
-![](https://img.shields.io/badge/Google-Cloud-informational?style=for-the-badge&logo=google-cloud&logoColor=white&color=1e90ff)
 
 <h3>&#x1f4c8; GitHub Stats</3>
 
