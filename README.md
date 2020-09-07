@@ -24,6 +24,7 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=1e90ff)
 
 <h3>&#x1f4c8; GitHub Stats</3><br>
+
 <a href="https://github.com/chitrank0614/chitrank0614">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chitrank0614&theme=default&show_icons=true&hide=issues" alt="Chitrank's GitHub Stats" />
 </a>
