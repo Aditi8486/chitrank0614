@@ -1,7 +1,8 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+<h3>Hey, nice to see you.</h3>
 
-<p>Welcome to my page! </br> I'm Chitrank, Freestyle developer from <img src="images/india.svg" width="13"/> <b>Noida, India</b>.</p>
-- 🔭 I’m currently working on <a href="https://github.com/chitrank0614/Wall-Manager">Wall-Manager</a>
+<p>Welcome to my page! </br> I'm Chitrank, Freestyle developer from <b>Noida, India <img src="images/india.svg" width="13"/> </b>. Undergraduate student at <b>JIIT Noida</b>. Reads and writes in C++. Learning Javascript and Python. </p><br>
+
+- 🔭 I’m currently working on <a href="https://github.com/chitrank0614/Wall-Manager">Wall-Manager</a><br>
 - 🌱 I’m currently learning React JS
 
 <h3>🔧 Things I code with</h3><br>
